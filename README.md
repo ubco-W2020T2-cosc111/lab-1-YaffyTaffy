@@ -7,7 +7,7 @@ This week, you will include all of your "answers" to this week's lab in this REA
 For this task, please include a screenshot as described in the [Lab 1](./lab1.md) file.
 
 > Your screenshot image here.
-
+![](L1-1.png)
 
 ## Task 2: Prepare your System (40 marks)
 
